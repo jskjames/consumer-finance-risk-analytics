@@ -1,0 +1,361 @@
+year_month,product,complaints,untimely_pct
+2024-01,Credit reporting or other personal consumer reports,2281,0.09
+2024-01,Debt collection,137,0.73
+2024-01,Credit card,87,0.0
+2024-01,Checking or savings account,83,0.0
+2024-01,Mortgage,41,2.44
+2024-01,Student loan,31,6.45
+2024-01,"Money transfer, virtual currency, or money service",27,3.7
+2024-01,Vehicle loan or lease,23,0.0
+2024-01,"Payday loan, title loan, personal loan, or advance loan",21,9.52
+2024-01,Prepaid card,11,9.09
+2024-02,Credit reporting or other personal consumer reports,2492,0.16
+2024-02,Debt collection,177,2.26
+2024-02,Credit card,89,0.0
+2024-02,Checking or savings account,62,0.0
+2024-02,Mortgage,34,0.0
+2024-02,"Money transfer, virtual currency, or money service",28,0.0
+2024-02,Vehicle loan or lease,20,0.0
+2024-02,Student loan,17,5.88
+2024-02,"Payday loan, title loan, personal loan, or advance loan",11,9.09
+2024-02,Prepaid card,3,0.0
+2024-02,Debt or credit management,2,0.0
+2024-03,Credit reporting or other personal consumer reports,2808,0.07
+2024-03,Debt collection,230,0.87
+2024-03,Credit card,117,0.0
+2024-03,Checking or savings account,78,0.0
+2024-03,Mortgage,39,0.0
+2024-03,Vehicle loan or lease,29,0.0
+2024-03,"Money transfer, virtual currency, or money service",28,0.0
+2024-03,Student loan,22,9.09
+2024-03,"Payday loan, title loan, personal loan, or advance loan",14,0.0
+2024-03,Prepaid card,11,9.09
+2024-03,Debt or credit management,2,0.0
+2024-04,Credit reporting or other personal consumer reports,2989,0.13
+2024-04,Debt collection,273,1.47
+2024-04,Credit card,131,0.0
+2024-04,Checking or savings account,71,0.0
+2024-04,Mortgage,35,0.0
+2024-04,Student loan,27,7.41
+2024-04,"Money transfer, virtual currency, or money service",24,0.0
+2024-04,Vehicle loan or lease,17,5.88
+2024-04,Prepaid card,7,28.57
+2024-04,"Payday loan, title loan, personal loan, or advance loan",7,0.0
+2024-04,Debt or credit management,3,0.0
+2024-05,Credit reporting or other personal consumer reports,3424,0.06
+2024-05,Debt collection,247,1.21
+2024-05,Credit card,117,0.85
+2024-05,Checking or savings account,74,0.0
+2024-05,"Money transfer, virtual currency, or money service",33,3.03
+2024-05,Mortgage,30,0.0
+2024-05,Student loan,29,6.9
+2024-05,Vehicle loan or lease,17,0.0
+2024-05,Prepaid card,11,9.09
+2024-05,"Payday loan, title loan, personal loan, or advance loan",9,0.0
+2024-05,Debt or credit management,6,33.33
+2024-06,Credit reporting or other personal consumer reports,3295,0.06
+2024-06,Debt collection,215,1.86
+2024-06,Credit card,100,0.0
+2024-06,Checking or savings account,70,0.0
+2024-06,Mortgage,33,3.03
+2024-06,"Money transfer, virtual currency, or money service",26,3.85
+2024-06,Student loan,19,15.79
+2024-06,"Payday loan, title loan, personal loan, or advance loan",14,0.0
+2024-06,Prepaid card,10,0.0
+2024-06,Vehicle loan or lease,7,0.0
+2024-06,Debt or credit management,2,0.0
+2024-07,Credit reporting or other personal consumer reports,3897,0.03
+2024-07,Debt collection,225,2.22
+2024-07,Credit card,132,0.0
+2024-07,Checking or savings account,77,1.3
+2024-07,Mortgage,42,0.0
+2024-07,Vehicle loan or lease,21,0.0
+2024-07,"Money transfer, virtual currency, or money service",20,5.0
+2024-07,Student loan,18,0.0
+2024-07,Prepaid card,16,12.5
+2024-07,"Payday loan, title loan, personal loan, or advance loan",15,6.67
+2024-07,Debt or credit management,6,0.0
+2024-08,Credit reporting or other personal consumer reports,4269,0.07
+2024-08,Debt collection,270,1.11
+2024-08,Credit card,137,1.46
+2024-08,Checking or savings account,85,2.35
+2024-08,Mortgage,39,0.0
+2024-08,Vehicle loan or lease,23,0.0
+2024-08,"Money transfer, virtual currency, or money service",21,0.0
+2024-08,Student loan,14,0.0
+2024-08,"Payday loan, title loan, personal loan, or advance loan",13,0.0
+2024-08,Prepaid card,9,0.0
+2024-08,Debt or credit management,3,33.33
+2024-09,Credit reporting or other personal consumer reports,4485,0.07
+2024-09,Debt collection,274,1.09
+2024-09,Credit card,122,1.64
+2024-09,Checking or savings account,85,0.0
+2024-09,Student loan,29,0.0
+2024-09,Mortgage,28,0.0
+2024-09,Vehicle loan or lease,22,4.55
+2024-09,"Money transfer, virtual currency, or money service",18,5.56
+2024-09,"Payday loan, title loan, personal loan, or advance loan",15,6.67
+2024-09,Prepaid card,4,25.0
+2024-09,Debt or credit management,2,0.0
+2024-10,Credit reporting or other personal consumer reports,4935,0.06
+2024-10,Debt collection,318,1.26
+2024-10,Credit card,133,0.0
+2024-10,Checking or savings account,92,0.0
+2024-10,Mortgage,41,2.44
+2024-10,Student loan,32,0.0
+2024-10,Vehicle loan or lease,20,0.0
+2024-10,"Money transfer, virtual currency, or money service",20,0.0
+2024-10,Prepaid card,14,0.0
+2024-10,"Payday loan, title loan, personal loan, or advance loan",11,0.0
+2024-10,Debt or credit management,7,14.29
+2024-11,Credit reporting or other personal consumer reports,4716,0.06
+2024-11,Debt collection,312,2.56
+2024-11,Checking or savings account,99,0.0
+2024-11,Credit card,91,0.0
+2024-11,"Money transfer, virtual currency, or money service",27,0.0
+2024-11,Mortgage,26,11.54
+2024-11,"Payday loan, title loan, personal loan, or advance loan",23,8.7
+2024-11,Student loan,19,5.26
+2024-11,Vehicle loan or lease,18,5.56
+2024-11,Prepaid card,12,8.33
+2024-11,Debt or credit management,6,16.67
+2024-12,Credit reporting or other personal consumer reports,5108,0.06
+2024-12,Debt collection,289,1.04
+2024-12,Credit card,127,0.0
+2024-12,Checking or savings account,81,0.0
+2024-12,Mortgage,41,2.44
+2024-12,"Money transfer, virtual currency, or money service",38,2.63
+2024-12,Student loan,29,3.45
+2024-12,Vehicle loan or lease,28,0.0
+2024-12,"Payday loan, title loan, personal loan, or advance loan",19,0.0
+2024-12,Debt or credit management,9,0.0
+2024-12,Prepaid card,6,0.0
+2025-01,Credit reporting or other personal consumer reports,6915,0.07
+2025-01,"Money transfer, virtual currency, or money service",961,0.0
+2025-01,Debt collection,467,3.21
+2025-01,Checking or savings account,322,0.31
+2025-01,Credit card,161,0.62
+2025-01,Student loan,47,8.51
+2025-01,Vehicle loan or lease,33,3.03
+2025-01,Mortgage,33,0.0
+2025-01,Prepaid card,17,5.88
+2025-01,"Payday loan, title loan, personal loan, or advance loan",17,0.0
+2025-01,Debt or credit management,11,0.0
+2025-02,Credit reporting or other personal consumer reports,5499,0.13
+2025-02,Debt collection,328,4.27
+2025-02,Checking or savings account,129,2.33
+2025-02,"Money transfer, virtual currency, or money service",122,0.82
+2025-02,Credit card,107,0.93
+2025-02,Student loan,33,9.09
+2025-02,Mortgage,28,0.0
+2025-02,Vehicle loan or lease,21,0.0
+2025-02,"Payday loan, title loan, personal loan, or advance loan",12,0.0
+2025-02,Prepaid card,9,11.11
+2025-02,Debt or credit management,5,0.0
+2025-03,Credit reporting or other personal consumer reports,6621,0.15
+2025-03,Debt collection,376,3.46
+2025-03,Credit card,116,0.0
+2025-03,Checking or savings account,90,0.0
+2025-03,"Money transfer, virtual currency, or money service",58,1.72
+2025-03,Student loan,56,23.21
+2025-03,Mortgage,30,0.0
+2025-03,Vehicle loan or lease,27,0.0
+2025-03,"Payday loan, title loan, personal loan, or advance loan",20,0.0
+2025-03,Debt or credit management,10,10.0
+2025-03,Prepaid card,9,0.0
+2025-04,Credit reporting or other personal consumer reports,6826,0.16
+2025-04,Debt collection,379,4.49
+2025-04,Credit card,143,0.0
+2025-04,Checking or savings account,83,0.0
+2025-04,"Money transfer, virtual currency, or money service",57,1.75
+2025-04,Student loan,41,39.02
+2025-04,Mortgage,27,0.0
+2025-04,Vehicle loan or lease,26,3.85
+2025-04,"Payday loan, title loan, personal loan, or advance loan",17,0.0
+2025-04,Debt or credit management,9,0.0
+2025-04,Prepaid card,7,14.29
+2025-05,Credit reporting or other personal consumer reports,6943,0.13
+2025-05,Debt collection,417,3.84
+2025-05,Credit card,127,0.0
+2025-05,Checking or savings account,101,0.0
+2025-05,"Money transfer, virtual currency, or money service",48,2.08
+2025-05,Mortgage,33,3.03
+2025-05,Vehicle loan or lease,30,3.33
+2025-05,Student loan,30,50.0
+2025-05,"Payday loan, title loan, personal loan, or advance loan",23,0.0
+2025-05,Prepaid card,15,13.33
+2025-05,Debt or credit management,5,0.0
+2025-06,Credit reporting or other personal consumer reports,6930,0.13
+2025-06,Debt collection,416,2.4
+2025-06,Credit card,132,0.76
+2025-06,Checking or savings account,108,2.78
+2025-06,"Money transfer, virtual currency, or money service",60,6.67
+2025-06,Mortgage,43,0.0
+2025-06,Student loan,30,40.0
+2025-06,Vehicle loan or lease,29,0.0
+2025-06,"Payday loan, title loan, personal loan, or advance loan",25,8.0
+2025-06,Prepaid card,8,0.0
+2025-06,Debt or credit management,5,0.0
+2025-07,Credit reporting or other personal consumer reports,8033,0.09
+2025-07,Debt collection,496,3.23
+2025-07,Credit card,153,0.65
+2025-07,Checking or savings account,127,0.79
+2025-07,"Money transfer, virtual currency, or money service",61,13.11
+2025-07,Student loan,35,37.14
+2025-07,Mortgage,34,0.0
+2025-07,Vehicle loan or lease,32,0.0
+2025-07,"Payday loan, title loan, personal loan, or advance loan",30,6.67
+2025-07,Prepaid card,13,15.38
+2025-07,Debt or credit management,7,14.29
+2025-08,Credit reporting or other personal consumer reports,8373,0.12
+2025-08,Debt collection,518,2.7
+2025-08,Credit card,132,0.0
+2025-08,Checking or savings account,98,1.02
+2025-08,Mortgage,42,4.76
+2025-08,"Money transfer, virtual currency, or money service",39,7.69
+2025-08,Vehicle loan or lease,34,2.94
+2025-08,Student loan,23,39.13
+2025-08,"Payday loan, title loan, personal loan, or advance loan",15,6.67
+2025-08,Debt or credit management,9,0.0
+2025-08,Prepaid card,7,0.0
+2025-09,Credit reporting or other personal consumer reports,8509,0.11
+2025-09,Debt collection,517,1.93
+2025-09,Credit card,143,0.0
+2025-09,Checking or savings account,115,0.0
+2025-09,"Money transfer, virtual currency, or money service",47,4.26
+2025-09,Mortgage,44,4.55
+2025-09,Vehicle loan or lease,33,3.03
+2025-09,Student loan,23,30.43
+2025-09,"Payday loan, title loan, personal loan, or advance loan",17,5.88
+2025-09,Debt or credit management,10,10.0
+2025-09,Prepaid card,7,0.0
+2025-10,Credit reporting or other personal consumer reports,9093,0.08
+2025-10,Debt collection,500,3.8
+2025-10,Credit card,143,1.4
+2025-10,Checking or savings account,122,0.0
+2025-10,"Money transfer, virtual currency, or money service",82,0.0
+2025-10,Vehicle loan or lease,37,0.0
+2025-10,Mortgage,30,0.0
+2025-10,"Payday loan, title loan, personal loan, or advance loan",23,0.0
+2025-10,Student loan,17,23.53
+2025-10,Prepaid card,6,0.0
+2025-10,Debt or credit management,6,0.0
+2025-11,Credit reporting or other personal consumer reports,8602,0.1
+2025-11,Debt collection,499,2.61
+2025-11,Credit card,133,0.75
+2025-11,Checking or savings account,98,1.02
+2025-11,"Money transfer, virtual currency, or money service",55,1.82
+2025-11,Mortgage,40,0.0
+2025-11,Vehicle loan or lease,38,5.26
+2025-11,"Payday loan, title loan, personal loan, or advance loan",29,3.45
+2025-11,Student loan,22,31.82
+2025-11,Prepaid card,11,0.0
+2025-11,Debt or credit management,4,25.0
+2025-12,Credit reporting or other personal consumer reports,8684,0.12
+2025-12,Debt collection,559,3.22
+2025-12,Credit card,157,1.91
+2025-12,Checking or savings account,145,0.0
+2025-12,"Money transfer, virtual currency, or money service",56,1.79
+2025-12,Mortgage,53,1.89
+2025-12,Vehicle loan or lease,37,2.7
+2025-12,Student loan,30,30.0
+2025-12,"Payday loan, title loan, personal loan, or advance loan",30,10.0
+2025-12,Prepaid card,13,0.0
+2025-12,Debt or credit management,8,0.0
+2026-01,Credit reporting or other personal consumer reports,9021,0.18
+2026-01,Debt collection,551,3.99
+2026-01,Credit card,186,0.0
+2026-01,Checking or savings account,151,0.0
+2026-01,Mortgage,66,1.52
+2026-01,"Money transfer, virtual currency, or money service",64,1.56
+2026-01,Vehicle loan or lease,51,1.96
+2026-01,Student loan,43,34.88
+2026-01,"Payday loan, title loan, personal loan, or advance loan",36,5.56
+2026-01,Prepaid card,15,0.0
+2026-01,Debt or credit management,10,10.0
+2026-02,Credit reporting or other personal consumer reports,8236,0.16
+2026-02,Debt collection,530,3.58
+2026-02,Credit card,140,2.14
+2026-02,Checking or savings account,123,0.0
+2026-02,Mortgage,52,0.0
+2026-02,"Money transfer, virtual currency, or money service",39,2.56
+2026-02,Vehicle loan or lease,37,2.7
+2026-02,Student loan,31,51.61
+2026-02,"Payday loan, title loan, personal loan, or advance loan",21,0.0
+2026-02,Prepaid card,8,0.0
+2026-02,Debt or credit management,6,16.67
+2026-03,Credit reporting or other personal consumer reports,10482,0.11
+2026-03,Debt collection,661,2.42
+2026-03,Credit card,161,1.24
+2026-03,Checking or savings account,147,0.68
+2026-03,Mortgage,56,5.36
+2026-03,"Money transfer, virtual currency, or money service",54,3.7
+2026-03,Vehicle loan or lease,45,0.0
+2026-03,Student loan,40,37.5
+2026-03,"Payday loan, title loan, personal loan, or advance loan",29,6.9
+2026-03,Debt or credit management,5,20.0
+2026-03,Prepaid card,3,0.0
+2026-04,Credit reporting or other personal consumer reports,10518,0.08
+2026-04,Debt collection,518,2.9
+2026-04,Credit card,163,1.84
+2026-04,Checking or savings account,147,2.04
+2026-04,"Money transfer, virtual currency, or money service",75,4.0
+2026-04,Mortgage,59,3.39
+2026-04,Vehicle loan or lease,38,2.63
+2026-04,Student loan,33,33.33
+2026-04,"Payday loan, title loan, personal loan, or advance loan",21,4.76
+2026-04,Debt or credit management,5,0.0
+2026-04,Prepaid card,3,0.0
+2026-05,Credit reporting or other personal consumer reports,10784,0.11
+2026-05,Debt collection,549,4.01
+2026-05,Credit card,127,2.36
+2026-05,Checking or savings account,121,0.0
+2026-05,"Money transfer, virtual currency, or money service",65,0.0
+2026-05,Mortgage,51,1.96
+2026-05,Student loan,36,27.78
+2026-05,"Payday loan, title loan, personal loan, or advance loan",35,8.57
+2026-05,Vehicle loan or lease,32,3.13
+2026-05,Prepaid card,14,14.29
+2026-05,Debt or credit management,10,20.0
+2026-06,Credit reporting or other personal consumer reports,10864,0.05
+2026-06,Debt collection,515,5.24
+2026-06,Checking or savings account,153,0.65
+2026-06,Credit card,142,3.52
+2026-06,Mortgage,59,8.47
+2026-06,"Money transfer, virtual currency, or money service",50,2.0
+2026-06,Vehicle loan or lease,33,3.03
+2026-06,"Payday loan, title loan, personal loan, or advance loan",30,6.67
+2026-06,Student loan,26,34.62
+2026-06,Prepaid card,4,0.0
+2026-06,Debt or credit management,4,25.0
+2026-07,Credit reporting or other personal consumer reports,11543,0.06
+2026-07,Debt collection,466,3.0
+2026-07,Checking or savings account,149,0.0
+2026-07,Credit card,141,1.42
+2026-07,Mortgage,59,1.69
+2026-07,"Money transfer, virtual currency, or money service",57,0.0
+2026-07,Student loan,37,24.32
+2026-07,"Payday loan, title loan, personal loan, or advance loan",37,5.41
+2026-07,Vehicle loan or lease,35,0.0
+2026-07,Prepaid card,12,8.33
+2026-07,Debt or credit management,8,0.0
+2026-08,Credit reporting or other personal consumer reports,11628,0.03
+2026-08,Debt collection,357,2.24
+2026-08,Credit card,162,0.0
+2026-08,Checking or savings account,158,0.63
+2026-08,"Money transfer, virtual currency, or money service",69,1.45
+2026-08,Mortgage,45,0.0
+2026-08,Vehicle loan or lease,36,2.78
+2026-08,Student loan,25,8.0
+2026-08,"Payday loan, title loan, personal loan, or advance loan",18,0.0
+2026-08,Prepaid card,10,10.0
+2026-08,Debt or credit management,3,0.0
+2026-09,Credit reporting or other personal consumer reports,3824,0.0
+2026-09,Debt collection,78,0.0
+2026-09,Credit card,16,0.0
+2026-09,"Money transfer, virtual currency, or money service",9,0.0
+2026-09,Vehicle loan or lease,8,0.0
+2026-09,Checking or savings account,8,0.0
+2026-09,"Payday loan, title loan, personal loan, or advance loan",3,0.0
+2026-09,Student loan,2,0.0
+2026-09,Mortgage,2,0.0

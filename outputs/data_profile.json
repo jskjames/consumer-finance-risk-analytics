@@ -1,0 +1,16 @@
+{
+  "source": "CFPB Consumer Complaint Database",
+  "source_url": "https://www.consumerfinance.gov/data-research/consumer-complaints/",
+  "pipeline_run_utc": "2026-09-15T00:17:42.998599+00:00",
+  "start_date_filter": "2024-01-01",
+  "rows_scanned": 17743557,
+  "eligible_rows": 13238403,
+  "sample_rows": 250000,
+  "sample_method": "deterministic lowest-hash sample by complaint_id",
+  "min_date": "2024-01-01",
+  "max_date": "2026-09-14",
+  "unique_products": 11,
+  "unique_companies": 1501,
+  "narrative_share": 0.0,
+  "timely_response_share": 0.9961
+}

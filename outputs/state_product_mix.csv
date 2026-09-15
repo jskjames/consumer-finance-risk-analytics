@@ -1,0 +1,555 @@
+state,product,complaints
+TX,Credit reporting or other personal consumer reports,33630
+FL,Credit reporting or other personal consumer reports,32912
+CA,Credit reporting or other personal consumer reports,20410
+GA,Credit reporting or other personal consumer reports,17068
+NY,Credit reporting or other personal consumer reports,12370
+IL,Credit reporting or other personal consumer reports,9825
+PA,Credit reporting or other personal consumer reports,8088
+NC,Credit reporting or other personal consumer reports,7793
+NJ,Credit reporting or other personal consumer reports,7143
+AL,Credit reporting or other personal consumer reports,6177
+LA,Credit reporting or other personal consumer reports,5464
+SC,Credit reporting or other personal consumer reports,5239
+MD,Credit reporting or other personal consumer reports,5226
+MS,Credit reporting or other personal consumer reports,4735
+MI,Credit reporting or other personal consumer reports,4497
+OH,Credit reporting or other personal consumer reports,4336
+VA,Credit reporting or other personal consumer reports,3861
+AZ,Credit reporting or other personal consumer reports,3346
+TN,Credit reporting or other personal consumer reports,3099
+NV,Credit reporting or other personal consumer reports,2776
+MA,Credit reporting or other personal consumer reports,2734
+IN,Credit reporting or other personal consumer reports,2429
+MO,Credit reporting or other personal consumer reports,2332
+TX,Debt collection,2278
+WA,Credit reporting or other personal consumer reports,1647
+WI,Credit reporting or other personal consumer reports,1619
+AR,Credit reporting or other personal consumer reports,1509
+CT,Credit reporting or other personal consumer reports,1424
+FL,Debt collection,1409
+CO,Credit reporting or other personal consumer reports,1151
+CA,Debt collection,1045
+GA,Debt collection,1036
+PR,Credit reporting or other personal consumer reports,1022
+DE,Credit reporting or other personal consumer reports,890
+OK,Credit reporting or other personal consumer reports,890
+KY,Credit reporting or other personal consumer reports,867
+MN,Credit reporting or other personal consumer reports,817
+DC,Credit reporting or other personal consumer reports,638
+CA,Credit card,560
+UT,Credit reporting or other personal consumer reports,531
+CA,Checking or savings account,525
+IL,Debt collection,517
+NY,Debt collection,508
+TX,Credit card,506
+RI,Credit reporting or other personal consumer reports,499
+KS,Credit reporting or other personal consumer reports,473
+PA,Debt collection,470
+OR,Credit reporting or other personal consumer reports,468
+NC,Debt collection,466
+FL,Credit card,435
+IA,Credit reporting or other personal consumer reports,378
+SC,Debt collection,363
+HI,Credit reporting or other personal consumer reports,343
+FL,Checking or savings account,335
+NJ,Debt collection,325
+NM,Credit reporting or other personal consumer reports,325
+NY,Credit card,311
+TX,Checking or savings account,311
+NE,Credit reporting or other personal consumer reports,309
+LA,Debt collection,303
+AL,Debt collection,293
+MI,Debt collection,293
+OH,Debt collection,288
+AZ,Debt collection,286
+VA,Debt collection,286
+NY,Checking or savings account,275
+TX,"Money transfer, virtual currency, or money service",256
+MD,Debt collection,254
+CA,"Money transfer, virtual currency, or money service",248
+TN,Debt collection,236
+IL,Credit card,204
+GA,Checking or savings account,193
+GA,Credit card,191
+WV,Credit reporting or other personal consumer reports,189
+FL,"Money transfer, virtual currency, or money service",187
+NH,Credit reporting or other personal consumer reports,177
+IN,Debt collection,173
+IL,Checking or savings account,172
+MS,Debt collection,170
+IL,"Money transfer, virtual currency, or money service",169
+NJ,Credit card,165
+MO,Debt collection,161
+CA,Mortgage,159
+NY,"Money transfer, virtual currency, or money service",158
+VA,Credit card,153
+PA,Credit card,152
+MA,Debt collection,150
+ID,Credit reporting or other personal consumer reports,149
+NV,Debt collection,139
+GA,"Money transfer, virtual currency, or money service",138
+FL,Mortgage,135
+NC,Credit card,134
+PA,Checking or savings account,133
+WA,Debt collection,128
+NJ,Checking or savings account,119
+NC,Checking or savings account,117
+ND,Credit reporting or other personal consumer reports,114
+FL,Vehicle loan or lease,106
+CA,Student loan,105
+CA,Vehicle loan or lease,103
+TX,Mortgage,103
+VA,Checking or savings account,103
+TX,Vehicle loan or lease,100
+OK,Debt collection,97
+AK,Credit reporting or other personal consumer reports,95
+MD,Checking or savings account,95
+WI,Debt collection,93
+NC,"Money transfer, virtual currency, or money service",92
+AR,Debt collection,91
+MI,Checking or savings account,91
+ME,Credit reporting or other personal consumer reports,89
+AZ,Credit card,88
+MD,Credit card,86
+OH,Checking or savings account,82
+FL,"Payday loan, title loan, personal loan, or advance loan",79
+MA,Credit card,79
+TX,"Payday loan, title loan, personal loan, or advance loan",79
+AZ,Checking or savings account,78
+CO,Debt collection,78
+OH,Credit card,78
+KY,Debt collection,76
+TX,Student loan,75
+VI,Credit reporting or other personal consumer reports,75
+NJ,"Money transfer, virtual currency, or money service",73
+PA,"Money transfer, virtual currency, or money service",73
+GA,Vehicle loan or lease,72
+GA,Mortgage,70
+MN,Debt collection,70
+NY,Mortgage,70
+CO,Checking or savings account,69
+VA,"Money transfer, virtual currency, or money service",69
+WA,Credit card,69
+MI,Credit card,68
+OH,"Money transfer, virtual currency, or money service",66
+SC,Checking or savings account,66
+CO,Credit card,65
+FL,Student loan,65
+CT,Debt collection,64
+CA,Prepaid card,62
+NV,Checking or savings account,62
+CA,"Payday loan, title loan, personal loan, or advance loan",61
+MA,Checking or savings account,61
+DE,Debt collection,60
+LA,Credit card,60
+MI,"Money transfer, virtual currency, or money service",60
+TN,Checking or savings account,60
+NV,Credit card,59
+PA,Student loan,59
+SC,"Money transfer, virtual currency, or money service",59
+PA,Mortgage,57
+MT,Credit reporting or other personal consumer reports,56
+AL,Credit card,55
+LA,"Money transfer, virtual currency, or money service",55
+WA,Checking or savings account,55
+CT,Credit card,53
+OR,Debt collection,53
+NJ,Mortgage,52
+SC,Credit card,51
+AL,Checking or savings account,50
+IN,Credit card,50
+LA,Checking or savings account,50
+AZ,"Money transfer, virtual currency, or money service",49
+GA,Student loan,49
+NY,Student loan,49
+AL,"Money transfer, virtual currency, or money service",48
+MD,"Money transfer, virtual currency, or money service",48
+NY,Vehicle loan or lease,48
+MN,Credit card,47
+IL,Mortgage,45
+TN,Credit card,45
+TN,"Money transfer, virtual currency, or money service",45
+MO,Checking or savings account,44
+AZ,Mortgage,43
+MO,Credit card,43
+SD,Credit reporting or other personal consumer reports,43
+IN,Checking or savings account,42
+WI,Credit card,42
+MN,Checking or savings account,41
+MO,"Money transfer, virtual currency, or money service",41
+NC,Mortgage,41
+OR,Checking or savings account,40
+IL,Student loan,39
+OR,Credit card,39
+VA,Mortgage,38
+CT,Checking or savings account,37
+MD,Mortgage,37
+MI,Mortgage,37
+OH,Student loan,37
+GA,"Payday loan, title loan, personal loan, or advance loan",35
+KS,Debt collection,35
+OH,Vehicle loan or lease,35
+VT,Credit reporting or other personal consumer reports,35
+IL,Vehicle loan or lease,34
+MA,"Money transfer, virtual currency, or money service",34
+MI,Student loan,34
+NC,Student loan,33
+NE,Debt collection,32
+MI,Vehicle loan or lease,31
+MS,"Money transfer, virtual currency, or money service",31
+NC,Vehicle loan or lease,31
+WV,Debt collection,31
+WY,Credit reporting or other personal consumer reports,31
+MS,Checking or savings account,30
+NJ,Vehicle loan or lease,30
+NV,"Money transfer, virtual currency, or money service",30
+OH,Mortgage,30
+OH,"Payday loan, title loan, personal loan, or advance loan",30
+UT,Debt collection,30
+CO,"Money transfer, virtual currency, or money service",29
+ID,Debt collection,29
+PA,Vehicle loan or lease,29
+TN,Mortgage,29
+TX,Prepaid card,29
+WA,"Money transfer, virtual currency, or money service",29
+IA,Debt collection,28
+MN,"Money transfer, virtual currency, or money service",28
+AR,Credit card,27
+DE,Credit card,27
+KY,"Money transfer, virtual currency, or money service",27
+MD,Vehicle loan or lease,27
+NJ,Student loan,27
+NY,Prepaid card,27
+SC,Mortgage,27
+MD,Student loan,26
+NM,Debt collection,26
+OK,Credit card,26
+RI,Debt collection,26
+AZ,Student loan,25
+HI,Debt collection,25
+IN,"Money transfer, virtual currency, or money service",25
+NY,"Payday loan, title loan, personal loan, or advance loan",25
+UT,Credit card,25
+WA,Mortgage,25
+WI,"Money transfer, virtual currency, or money service",25
+AE,Credit reporting or other personal consumer reports,24
+CO,Mortgage,24
+CO,Student loan,24
+KY,Checking or savings account,24
+MS,Credit card,24
+UT,Checking or savings account,24
+IA,Credit card,22
+NH,Debt collection,22
+OK,"Money transfer, virtual currency, or money service",22
+VA,Vehicle loan or lease,22
+WV,Credit card,22
+AL,Mortgage,21
+AL,Vehicle loan or lease,21
+KY,Credit card,21
+MA,Mortgage,21
+TN,Student loan,21
+WA,Student loan,21
+WI,Checking or savings account,21
+AR,Checking or savings account,20
+DC,Debt collection,20
+NC,"Payday loan, title loan, personal loan, or advance loan",20
+NJ,"Payday loan, title loan, personal loan, or advance loan",20
+AL,"Payday loan, title loan, personal loan, or advance loan",19
+AR,"Money transfer, virtual currency, or money service",19
+CT,"Money transfer, virtual currency, or money service",19
+DE,Checking or savings account,19
+FL,Debt or credit management,19
+LA,"Payday loan, title loan, personal loan, or advance loan",19
+MA,Student loan,19
+ND,Debt collection,19
+SC,Vehicle loan or lease,19
+TX,Debt or credit management,19
+AZ,Vehicle loan or lease,18
+CA,Debt or credit management,18
+CT,Mortgage,18
+DC,Checking or savings account,18
+IL,"Payday loan, title loan, personal loan, or advance loan",18
+IN,Mortgage,18
+IN,Student loan,18
+IN,Vehicle loan or lease,18
+KS,Credit card,18
+OR,Mortgage,18
+SC,Student loan,18
+TN,"Payday loan, title loan, personal loan, or advance loan",18
+VA,Student loan,18
+KS,Checking or savings account,17
+LA,Vehicle loan or lease,17
+MI,"Payday loan, title loan, personal loan, or advance loan",17
+MN,Mortgage,17
+NE,Credit card,17
+OR,Student loan,17
+DC,Credit card,16
+MA,Vehicle loan or lease,16
+MO,Mortgage,16
+MT,Debt collection,16
+NV,"Payday loan, title loan, personal loan, or advance loan",16
+OR,"Money transfer, virtual currency, or money service",16
+PA,"Payday loan, title loan, personal loan, or advance loan",16
+RI,Credit card,16
+UNITED STATES MINOR OUTLYING ISLANDS,Credit reporting or other personal consumer reports,16
+WI,Student loan,16
+KS,"Money transfer, virtual currency, or money service",15
+LA,Mortgage,15
+MO,Student loan,15
+FL,Prepaid card,14
+ID,Credit card,14
+IN,"Payday loan, title loan, personal loan, or advance loan",14
+KY,Mortgage,14
+MN,Student loan,14
+OK,Checking or savings account,14
+WV,Checking or savings account,14
+CT,Student loan,13
+IA,"Money transfer, virtual currency, or money service",13
+NE,Checking or savings account,13
+NH,Credit card,13
+NV,Mortgage,13
+SC,"Payday loan, title loan, personal loan, or advance loan",13
+TN,Vehicle loan or lease,13
+AK,Debt collection,12
+CT,Vehicle loan or lease,12
+GA,Prepaid card,12
+IL,Prepaid card,12
+MO,Vehicle loan or lease,12
+MS,Mortgage,12
+NJ,Prepaid card,12
+NM,Checking or savings account,12
+NM,Credit card,12
+VA,"Payday loan, title loan, personal loan, or advance loan",12
+WI,Mortgage,12
+AL,Student loan,11
+AZ,"Payday loan, title loan, personal loan, or advance loan",11
+CO,"Payday loan, title loan, personal loan, or advance loan",11
+GA,Debt or credit management,11
+HI,Checking or savings account,11
+IA,Checking or savings account,11
+MO,Prepaid card,11
+MS,Vehicle loan or lease,11
+NM,"Money transfer, virtual currency, or money service",11
+NV,Vehicle loan or lease,11
+OK,Mortgage,11
+DC,"Money transfer, virtual currency, or money service",10
+LA,Student loan,10
+MD,"Payday loan, title loan, personal loan, or advance loan",10
+MI,Prepaid card,10
+MS,Student loan,10
+PA,Prepaid card,10
+AR,Vehicle loan or lease,9
+DE,Mortgage,9
+ID,Checking or savings account,9
+MA,"Payday loan, title loan, personal loan, or advance loan",9
+NC,Debt or credit management,9
+NV,Student loan,9
+UT,Mortgage,9
+WI,"Payday loan, title loan, personal loan, or advance loan",9
+AK,Checking or savings account,8
+AP,Credit reporting or other personal consumer reports,8
+AR,"Payday loan, title loan, personal loan, or advance loan",8
+CO,Vehicle loan or lease,8
+HI,Mortgage,8
+IA,Student loan,8
+ME,Credit card,8
+ME,Student loan,8
+MO,"Payday loan, title loan, personal loan, or advance loan",8
+NE,"Money transfer, virtual currency, or money service",8
+NH,Checking or savings account,8
+PR,Credit card,8
+PR,Debt collection,8
+SD,Debt collection,8
+VT,Credit card,8
+WI,Vehicle loan or lease,8
+AS,Credit reporting or other personal consumer reports,7
+DE,Vehicle loan or lease,7
+IN,Debt or credit management,7
+ME,Debt collection,7
+MT,Credit card,7
+OH,Prepaid card,7
+RI,"Money transfer, virtual currency, or money service",7
+UT,"Payday loan, title loan, personal loan, or advance loan",7
+UT,Vehicle loan or lease,7
+VA,Prepaid card,7
+WA,"Payday loan, title loan, personal loan, or advance loan",7
+WA,Prepaid card,7
+WA,Vehicle loan or lease,7
+WY,Checking or savings account,7
+WY,"Money transfer, virtual currency, or money service",7
+HI,Credit card,6
+IL,Debt or credit management,6
+KS,Student loan,6
+NH,"Money transfer, virtual currency, or money service",6
+NJ,Debt or credit management,6
+NV,Debt or credit management,6
+NY,Debt or credit management,6
+OR,"Payday loan, title loan, personal loan, or advance loan",6
+RI,Checking or savings account,6
+UT,"Money transfer, virtual currency, or money service",6
+WI,Debt or credit management,6
+WV,Vehicle loan or lease,6
+AK,Mortgage,5
+AR,Mortgage,5
+DC,Mortgage,5
+DC,Student loan,5
+DE,"Money transfer, virtual currency, or money service",5
+IA,"Payday loan, title loan, personal loan, or advance loan",5
+IA,Vehicle loan or lease,5
+ID,"Money transfer, virtual currency, or money service",5
+KS,Mortgage,5
+KY,"Payday loan, title loan, personal loan, or advance loan",5
+LA,Prepaid card,5
+MA,Debt or credit management,5
+MI,Debt or credit management,5
+MS,"Payday loan, title loan, personal loan, or advance loan",5
+MT,Checking or savings account,5
+MT,"Payday loan, title loan, personal loan, or advance loan",5
+NE,"Payday loan, title loan, personal loan, or advance loan",5
+NM,"Payday loan, title loan, personal loan, or advance loan",5
+NV,Prepaid card,5
+OK,"Payday loan, title loan, personal loan, or advance loan",5
+PA,Debt or credit management,5
+PR,Checking or savings account,5
+PR,"Money transfer, virtual currency, or money service",5
+TN,Debt or credit management,5
+UT,Student loan,5
+VI,Debt collection,5
+VT,"Money transfer, virtual currency, or money service",5
+WY,Credit card,5
+AK,Credit card,4
+AR,Debt or credit management,4
+AR,Student loan,4
+AZ,Prepaid card,4
+CT,Prepaid card,4
+DC,Vehicle loan or lease,4
+DE,"Payday loan, title loan, personal loan, or advance loan",4
+HI,"Payday loan, title loan, personal loan, or advance loan",4
+HI,Student loan,4
+ID,Mortgage,4
+IN,Prepaid card,4
+KS,"Payday loan, title loan, personal loan, or advance loan",4
+KS,Vehicle loan or lease,4
+KY,Vehicle loan or lease,4
+LA,Debt or credit management,4
+MD,Prepaid card,4
+ME,Prepaid card,4
+MN,Vehicle loan or lease,4
+MS,Debt or credit management,4
+NM,Mortgage,4
+OH,Debt or credit management,4
+OK,Vehicle loan or lease,4
+RI,Student loan,4
+SC,Debt or credit management,4
+SD,Credit card,4
+VA,Debt or credit management,4
+VT,Mortgage,4
+WV,"Money transfer, virtual currency, or money service",4
+WY,Debt collection,4
+AK,"Money transfer, virtual currency, or money service",3
+AZ,Debt or credit management,3
+CO,Prepaid card,3
+DC,"Payday loan, title loan, personal loan, or advance loan",3
+HI,Vehicle loan or lease,3
+ID,Vehicle loan or lease,3
+KY,Prepaid card,3
+MD,Debt or credit management,3
+ME,Checking or savings account,3
+ME,Mortgage,3
+MN,Debt or credit management,3
+MS,Prepaid card,3
+MT,Vehicle loan or lease,3
+NC,Prepaid card,3
+ND,Credit card,3
+NE,Mortgage,3
+NE,Prepaid card,3
+NE,Student loan,3
+NH,Mortgage,3
+NH,Student loan,3
+PR,Mortgage,3
+PR,"Payday loan, title loan, personal loan, or advance loan",3
+SC,Prepaid card,3
+SD,"Money transfer, virtual currency, or money service",3
+SD,Mortgage,3
+TN,Prepaid card,3
+UT,Debt or credit management,3
+WV,Mortgage,3
+AE,Debt collection,2
+AE,"Money transfer, virtual currency, or money service",2
+AK,Student loan,2
+AL,Debt or credit management,2
+AL,Prepaid card,2
+AP,Credit card,2
+CT,"Payday loan, title loan, personal loan, or advance loan",2
+DC,Prepaid card,2
+GU,Credit reporting or other personal consumer reports,2
+HI,Debt or credit management,2
+HI,Prepaid card,2
+IA,Debt or credit management,2
+IA,Mortgage,2
+IA,Prepaid card,2
+ID,Student loan,2
+KS,Prepaid card,2
+KY,Student loan,2
+ME,"Money transfer, virtual currency, or money service",2
+MO,Debt or credit management,2
+MT,Mortgage,2
+ND,"Money transfer, virtual currency, or money service",2
+NE,Vehicle loan or lease,2
+NH,Prepaid card,2
+NM,Student loan,2
+NM,Vehicle loan or lease,2
+OK,Debt or credit management,2
+OK,Prepaid card,2
+OR,Prepaid card,2
+OR,Vehicle loan or lease,2
+PR,Student loan,2
+PR,Vehicle loan or lease,2
+RI,Mortgage,2
+SD,Checking or savings account,2
+SD,"Payday loan, title loan, personal loan, or advance loan",2
+SD,Vehicle loan or lease,2
+VT,Checking or savings account,2
+VT,Student loan,2
+WA,Debt or credit management,2
+WI,Prepaid card,2
+WV,Student loan,2
+WY,Mortgage,2
+AA,Credit reporting or other personal consumer reports,1
+AE,Credit card,1
+AE,Student loan,1
+AP,Debt collection,1
+AP,"Payday loan, title loan, personal loan, or advance loan",1
+AR,Prepaid card,1
+AS,Credit card,1
+DE,Prepaid card,1
+GU,Checking or savings account,1
+GU,Credit card,1
+HI,"Money transfer, virtual currency, or money service",1
+ID,Prepaid card,1
+KS,Debt or credit management,1
+KY,Debt or credit management,1
+MA,Prepaid card,1
+MN,"Payday loan, title loan, personal loan, or advance loan",1
+MN,Prepaid card,1
+MP,Credit reporting or other personal consumer reports,1
+MT,"Money transfer, virtual currency, or money service",1
+MT,Prepaid card,1
+MT,Student loan,1
+ND,Checking or savings account,1
+ND,Debt or credit management,1
+ND,"Payday loan, title loan, personal loan, or advance loan",1
+NH,Vehicle loan or lease,1
+OK,Student loan,1
+OR,Debt or credit management,1
+PR,Prepaid card,1
+RI,Prepaid card,1
+RI,Vehicle loan or lease,1
+SD,Debt or credit management,1
+UNITED STATES MINOR OUTLYING ISLANDS,Mortgage,1
+UT,Prepaid card,1
+VI,Checking or savings account,1
+WV,"Payday loan, title loan, personal loan, or advance loan",1
+WY,"Payday loan, title loan, personal loan, or advance loan",1
+WY,Vehicle loan or lease,1

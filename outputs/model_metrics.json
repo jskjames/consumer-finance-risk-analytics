@@ -1,0 +1,15 @@
+{
+  "model": "one-hot encoded categorical features + class-weighted logistic regression",
+  "purpose": "forecast whether a closed complaint receives monetary or non-monetary relief",
+  "training_rows": 120000,
+  "test_rows": 30000,
+  "classes": 2,
+  "positive_class": "closed with monetary or non-monetary relief",
+  "positive_rate": 0.3935,
+  "accuracy": 0.6999,
+  "precision": 0.5752,
+  "recall": 0.9077,
+  "f1": 0.7042,
+  "roc_auc": 0.766,
+  "random_state": 42
+}
