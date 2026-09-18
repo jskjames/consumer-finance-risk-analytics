@@ -1,4 +1,4 @@
-# Consumer Finance Risk Intelligence
+# Consumer Finance Risk Analytics
 
 An end-to-end analytics project that turns public consumer complaint data into operational risk signals and an explainable response-outcome model.
 
